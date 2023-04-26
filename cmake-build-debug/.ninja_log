@@ -1,0 +1,12 @@
+# ninja log v5
+1	871	1682404589683186533	CMakeFiles/NTL_test.dir/util.cpp.o	5ece2b538dd3eede
+1	733	1682406067357843028	CMakeFiles/NTL_test.dir/poe.cpp.o	6d18e38fd839c211
+1	1262	1682416209907781939	CMakeFiles/NTL_test.dir/accumulator.cpp.o	cc142eeb9f2b4b91
+1	93	1682051126635132757	CMakeFiles/NTL_test.dir/Hash.cpp.o	38edca9de955052
+2	751	1682325402680024311	CMakeFiles/NTL_test.dir/cl.cpp.o	bc1819f5a93d9cb2
+0	29	1682417117468361146	build.ninja	87204d8b3c1c5c44
+11	188	1682082904700405067	CMakeFiles/NTL_test.dir/blake3.c.o	8ad941a3820632dc
+2	1094	1682343214699321456	CMakeFiles/NTL_test.dir/classgroup.cpp.o	6d9b65902b749c2b
+1262	1364	1682416210007781939	NTL_test	129101d780d07917
+0	772	1682353012963475472	CMakeFiles/NTL_test.dir/poke2.cpp.o	b82ebd0b33d7fc51
+1	690	1682415825115783934	CMakeFiles/NTL_test.dir/main.cpp.o	aa23aad09fe92af0
